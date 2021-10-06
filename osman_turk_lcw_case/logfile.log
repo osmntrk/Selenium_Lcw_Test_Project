@@ -1,0 +1,6 @@
+2021-10-01 23:27:34,056 INFO  [Log] BasePage passed 
+2021-10-01 23:27:38,146 INFO  [Log] HomePage passed 
+2021-10-01 23:27:44,287 INFO  [Log] LoginPage passed 
+2021-10-01 23:27:54,078 INFO  [Log] SearchPage passed 
+2021-10-01 23:27:55,222 INFO  [Log] ProductPage passed 
+2021-10-01 23:28:08,178 INFO  [Log] BasketPage passed 
